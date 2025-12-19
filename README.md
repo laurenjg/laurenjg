@@ -5,7 +5,12 @@
     <br/>
     P5.js -> https://editor.p5js.org/laurenjg/sketches !
   </div>
+  <div>
+  <br>
+  research points: https://justgowiththeflow.hotglue.me/?smallstepstowardsacompleteimitation
 </div>
+</div>
+
 
 <!--
 **laurenjg/laurenjg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
