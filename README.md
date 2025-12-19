@@ -5,10 +5,6 @@
     <br/>
     P5.js -> https://editor.p5js.org/laurenjg/sketches !
   </div>
-  <div>
-  <br>
-  research points: https://justgowiththeflow.hotglue.me/?smallstepstowardsacompleteimitation
-</div>
 </div>
 
 
