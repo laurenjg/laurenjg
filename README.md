@@ -3,7 +3,7 @@
   
   <div>
     <br/>
-    P5.js -> https://editor.p5js.org/laurenjg/sketches !
+    In the meantime, check out my (outdated) P5.js -> https://editor.p5js.org/laurenjg/sketches !
   </div>
 </div>
 
