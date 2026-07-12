@@ -21,7 +21,7 @@ code & building interactive maps!
 
 </td>
 <td width="45%">
-<img width="450" height="450" alt="figtree" src="https://github.com/user-attachments/assets/ac2d50c7-0a09-493d-9529-ad29d90fce32" />
+<img width="450" height="450" alt="figtree" src="https://github.com/user-attachments/assets/417c9073-59a5-4a60-a6cc-b7047c499996" />
 </td>
 </tr>
 </table>
