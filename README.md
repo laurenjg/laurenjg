@@ -6,7 +6,7 @@
 
 ⁺˚⋆ ♎︎︎ ♌︎ ♋︎ ₊⊹
 
-I'm a junior developer & computing artist experimenting with 
+I'm a developer & computing artist experimenting with 
 code & web interaction!
 
 <div align="center">
