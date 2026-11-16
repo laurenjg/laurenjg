@@ -15,7 +15,7 @@ artist experimenting with code & web interaction!
   
   <div>
     <br/>
-    While I clean up my github, check out my (outdated) P5.js -> https://editor.p5js.org/laurenjg/sketches !
+    While I clean up my github, check out my P5.js -> https://editor.p5js.org/laurenjg/sketches !
   </div>
 
 
